@@ -1,4 +1,4 @@
-# 👋 Hello, I'm MEHMET!
+# 👋 Hello, I'm qilqix!
 
 ## 🏠 Hometown
 Kahramanmaraş / Türkiye
@@ -34,9 +34,9 @@ Kahramanmaraş / Türkiye
 ![AnySoftKeyboard](https://img.shields.io/badge/-AnySoftKeyboard-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ## 📊 GitHub Stats
-![GORNEDDO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GORNEDDO&show_icons=true&theme=radical)
+![GORNEDDO's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qilqix&show_icons=true&theme=radical)
 
 ## 🏅 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GORNEDDO&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilqix&layout=compact&theme=radical)
 
 ---
